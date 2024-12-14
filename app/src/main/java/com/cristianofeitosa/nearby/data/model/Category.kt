@@ -2,7 +2,9 @@ package com.cristianofeitosa.nearby.data.model
 
 import androidx.annotation.DrawableRes
 import com.cristianofeitosa.nearby.ui.component.category.CategoryFilterChipView
+import kotlinx.serialization.Serializable
 
+@Serializable
 data class Category(
     val id: String,
     val name: String

@@ -1,4 +1,4 @@
-package com.cristianofeitosa.nearby.ui.screen
+package com.cristianofeitosa.nearby.ui.screen.splash
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
